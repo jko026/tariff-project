@@ -6,3 +6,5 @@ print(date_object)
 
 new_date = datetime.strptime(date, '%m/%d/%Y').strftime('%B %d, %Y')
 print(new_date)
+
+#made some changes
